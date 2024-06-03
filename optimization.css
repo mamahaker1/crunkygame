@@ -1,0 +1,178 @@
+@media screen and (max-width: 1100px) {
+	.person {
+		display: none;
+	}
+
+	.main {
+		align-items: flex-end;
+	}
+
+	.number {
+		padding-right: 20px;
+	}
+}
+
+@media screen and (max-width: 376px) and (max-height: 668px) {
+	.header__inner {
+		display: block;
+		margin: 0 auto;
+	}
+
+	.header__inner h1 {
+		text-align: left;
+		margin: 0;
+		padding-top: 10px;
+	}
+
+	.bank__account {
+		box-shadow: none;
+		padding-right: 0px;
+		padding-left: 10px;
+	}
+
+	.input_bet {
+		width: 200px;
+	}
+
+	.number {
+		margin: 0;
+		margin-top: 70px;
+		margin-bottom: 90px;
+	}
+
+	.temp {
+		padding: 0;
+	}
+}
+
+@media screen and (max-width: 415px) and (max-height: 897px) {
+	.header__inner {
+		display: block;
+		margin: 0 auto;
+	}
+
+	.header__inner h1 {
+		text-align: left;
+		margin: 0;
+		padding-top: 10px;
+	}
+
+	.bank__account {
+		box-shadow: none;
+		padding-right: 0px;
+		padding-left: 10px;
+	}
+
+	.input_bet {
+		width: 200px;
+	}
+
+	.number {
+		margin: 0;
+		margin-top: 115px;
+		margin-bottom: 90px;
+	}
+
+	.temp {
+		padding: 0;
+	}
+}
+
+@media screen and (max-width: 431px) and (max-height: 933px) {
+	.header__inner {
+		display: block;
+		margin: 0 auto;
+	}
+
+	.header__inner h1 {
+		text-align: left;
+		margin: 0;
+		padding-top: 10px;
+	}
+
+	.bank__account {
+		box-shadow: none;
+		padding-right: 0px;
+		padding-left: 10px;
+	}
+
+	.input_bet {
+		width: 200px;
+	}
+
+	.number {
+		margin: 0;
+		margin-top: 115px;
+		margin-bottom: 90px;
+	}
+
+	.temp {
+		padding: 0;
+	}
+}
+
+@media screen and (max-width: 541px) and (max-height: 721px) {
+	.header__inner {
+		display: block;
+		margin: 0 auto;
+	}
+
+	.header__inner h1 {
+		text-align: left;
+		margin: 0;
+		padding-top: 10px;
+	}
+
+	.bank__account {
+		box-shadow: none;
+		padding-right: 0px;
+		padding-left: 10px;
+	}
+
+	.input_bet {
+		width: 200px;
+	}
+
+	.number {
+		margin: 0;
+		margin-top: 115px;
+		margin-bottom: 90px;
+	}
+
+	.temp {
+		padding: 0;
+	}
+}
+
+ @media screen and (max-width: 597px){
+	.header__inner {
+		display: block;
+		margin: 0 auto;
+	}
+
+	.header__inner h1 {
+		text-align: left;
+		margin: 0;
+		padding-top: 10px;
+	}
+
+	.bank__account {
+		box-shadow: none;
+		padding-right: 0px;
+		padding-left: 10px;
+	}
+
+	.input_bet {
+		width: 200px;
+	}
+
+	.number {
+		margin: 0;
+		margin-top: 115px;
+		margin-bottom: 90px;
+	}
+
+	.temp {
+		padding: 0;
+	}
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="normalize.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="optimization.css">
+	<title>Crunky — Угадай число</title>
+</head>
+<body>
+	<div class="container">
+		<div class="header">
+			<div class="header__inner">
+				<h1>Crunky</h1>
+
+				<div class="bank__account">
+					<p><span id="count_money">0</span> (LOL)</p>
+					<button id="add_money">+</button>
+				</div>
+			</div>
+		</div>
+		<div class="main">
+				<div class="person">
+					<img width="600px" src="cat.png">
+				</div>
+				<div class="temp">
+					<p class="number"><span id="number">0</span></p>
+					<div class="input__bet">
+						<input id="input_id" class="input_bet" type="text" name="input_bet" onchange="translateNum(this.value)">
+						<button id="make_bet" class="make_bet">Play</button>
+					</div>
+				</div>
+		</div>
+	</div>
+
+<script src="script.js"></script>
+</body>
+</html>
